@@ -1,0 +1,13 @@
+Region,Category,Total_Sales,Total_Profit,Avg_Discount_Pct,Total_Orders
+Central,Technology,170416.31,33697.43,13.3,356
+Central,Office Supplies,167026.42,8879.98,25.3,880
+Central,Furniture,163797.16,-2871.05,29.7,403
+East,Technology,264973.98,47462.04,14.3,443
+East,Furniture,208291.2,3046.17,15.4,488
+East,Office Supplies,205516.05,41014.58,14.3,1074
+South,Technology,148771.91,19991.83,10.8,255
+South,Office Supplies,125651.31,19986.39,16.7,619
+South,Furniture,117298.68,6771.21,12.2,278
+West,Furniture,252612.74,11504.95,13.1,595
+West,Technology,251991.83,44303.65,13.4,490
+West,Office Supplies,220853.25,52609.85,9.3,1169
